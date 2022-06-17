@@ -1,0 +1,348 @@
+
+body {
+    background-color: #191970;
+}
+
+.cajatitulo {
+    width: 98.6%;
+    height: 70px;
+    margin-bottom: 10px;
+    position: relative;
+    left: 4px;
+}
+
+#titulo {
+    color: white;
+    text-shadow: 8px 6px black;
+    width: 30%;
+    position: relative;
+    left: 500px;
+    bottom: 8px;
+}
+
+.cajatotal {
+    position: relative;
+    right: 400px;
+}
+
+.caja1 {
+    background-color: #F0F8FF;
+    padding-left: 25px;
+    padding-right: 28px;
+    padding-bottom: 30px;
+    padding-top: 34px;
+    width: 30%;
+    height: 90%;
+    border-radius: 6px;
+    margin-top: 20px;
+    margin-bottom: 60px;
+    position: relative;
+    left: 835px;
+    bottom: 30px;
+}
+
+.titulofoto {
+    width: 98%;
+    height: 50px;
+    position: relative;
+    left: -80px;
+    bottom: 50px;
+    display: flex;
+    margin-top: 10px;
+
+}
+.primerafoto {
+    background-color: #FFFAF0;
+    height: 20px;
+    position: relative;
+    bottom: 10px;
+    left: 57px;
+
+}
+
+.fecha {
+    color: grey;
+    background-color: white;
+    padding-left: 5px;
+    width: 7%;
+    height: 20px;
+    position: relative;
+    left: 326px;
+    top: 10px;
+    
+}
+
+.cuerpocaja1 {
+    width: 78%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    position: relative;
+    bottom: 40px;
+}
+
+.imagen1 {
+    position: relative;
+    left: -22px;
+    bottom: 27px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+.piecaja1 {
+    text-align: justify;
+    font-style: italic;
+    width: 105%;
+    height: 50px;
+    position: relative;
+    left: -5px;
+    bottom: 70px;
+}
+
+.parrafo1 {
+    background-color: #FFFAF0;
+    width: 105%;
+    position: relative;
+    top: -19px;
+    left: -17px;
+}
+
+.caja2 {
+    background-color: #F0F8FF;
+    padding: 30px;
+    padding-top: 50px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 17px;
+    width: 33%;
+    border-radius: 6px;
+    margin-top: 20px;
+    margin-bottom: 48px;
+    margin-left: 8px;
+    position: relative;
+    left: 825px;
+    bottom: 20px;
+}
+
+.titulofoto2 {
+    width: 98%;
+    height: 50px;
+    position: relative;
+    left: 5px;
+    bottom: 64px;
+    display: flex;
+    margin-top: 10px;
+
+}
+.segundafoto {
+    background-color: #FFFAF0;
+    height: 20px;
+    position: relative;
+    bottom: 10px;
+    left:   -12px;
+}
+
+.fecha2 {
+    color: grey;
+    background-color: white;
+    padding-left: 5px;
+    width: 6%;
+    height: 20px;
+    position: relative;
+    left: 285px;
+    top: 10px;
+}
+
+.cuerpocaja2 {
+    width: 98%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 6px;
+    position: relative;
+    left: 6px;
+    bottom: 75px;
+}
+
+.imagen2 {
+    position: relative;
+    width: 105.4%;
+    left: -20px;
+    bottom: 10px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+.piecaja2 {
+    text-align: justify;
+    font-style: italic;
+    width: 82%;
+    height: 50px;
+    margin-left: 10px;
+    position: relative;
+    bottom: 71px;
+    left: -15px;
+}
+
+.parrafo2 {
+    background-color: #FFFAF0;
+    width: 125%;
+    position: relative;
+    top: -30px;
+    left: -2px;
+}
+
+.caja3 {
+    background-color: #F0F8FF;
+    padding-top: 25px;
+    padding-left: 20px;
+    padding-bottom: 37px;
+    padding-right: 19px;
+    width: 32%;
+    border-radius: 6px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    position: relative;
+    left: 830px;
+    top: 8px;
+}
+
+.titulofoto3 {
+    width: 98%;
+    height: 50px;
+    position: relative;
+    left: -18px;
+    bottom: 42px;
+    display: flex;
+    margin-top: 10px;
+}
+
+.tercerafoto {
+    background-color: #FFFAF0;
+    height: 20px;
+    position: relative;
+    bottom: 10px;
+    left: 5px;
+}
+
+.fecha3 {
+    color: grey;
+    background-color: white;
+    padding-left: 5px;
+    width: 7%;
+    height: 20px;
+    position: relative;
+    left: 375px;
+    top: 10px;
+}
+
+.cuerpocaja3 {
+    width: 120%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    position: relative;
+    left: -48px;
+    bottom: 60px;
+}
+
+.imagen3 {
+    width: 90%;
+    position: relative;
+    left: 28px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+.piecaja3 {
+    text-align: justify;
+    font-style: italic;
+    width: 109%;
+    height: 50px;
+    position: relative;
+    left: -23px;
+    bottom: 70px;
+}
+
+.parrafo3 {
+    background-color: #FFFAF0;
+    width: 98%;
+    position: relative;
+    top: -11px;
+    left: 5px;
+}
+
+.caja4 {
+    background-color:#F0F8FF;
+    border-radius: 6px;
+    padding-top: 40px;
+    padding-bottom: -40px;
+    width: 35%;
+    height: 477px;
+    margin-top: 20px;
+    margin-bottom: 90px;
+    position: relative;
+    left: 830px;
+    top: 40px;
+}
+
+.titulofoto4 {
+    width: 98%;
+    height: 50px;
+    position: relative;
+    left: 5px;
+    bottom: 52px;
+    display: flex;
+    margin-top: 10px;
+}
+
+.cuartafoto {
+    background-color: #FFFAF0;
+    height: 20px;
+    position: relative;
+    bottom: 10px;
+    left: 5px;
+}
+
+.fecha4 {
+    color: grey;
+    background-color: white;
+    padding-left: 5px;
+    width: 6%;
+    height: 20px;
+    position: relative;
+    left: 274px;
+    top: 10px;
+}
+
+.cuerpocaja4 {
+    width: 98%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    position: relative;
+    left: 6px;
+    bottom: 57px;
+}
+
+.imagen4 {
+    width: 102%;
+    position: relative;
+    left: -6px;
+    bottom: 10px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+.piecaja4 {
+    text-align: justify;
+    font-style: italic;
+    width: 100%;
+    height: 50px;
+    position: relative;
+    bottom: 79px;
+}
+
+.parrafo4 {
+    background-color: #FFFAF0;
+    width: 98%;
+    position: relative;
+    top: -11px;
+    left: 5px;
+}
